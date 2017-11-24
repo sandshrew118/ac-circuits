@@ -5,4 +5,5 @@ Functionality is ok for now.
 
 Jobs to do to clean up the code:
 More separation of header and source files;
-More commenting
+More commenting;
+Cleanup the main file, make some more functions
